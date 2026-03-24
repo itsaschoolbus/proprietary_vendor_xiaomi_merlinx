@@ -190,13 +190,13 @@
       <Param name="digital_gain" value="-48,-42,-39,-36,-33,-30,-27,-24,-21,-18,-15,-12,-9,-6,-3,0"/>
     </ParamUnit>
     <ParamUnit param_id="2">
-      <Param name="digital_gain" value="-64,-59,-54,-49,-44,-40,-36,-32,-28,-24,-20,-16,-12,-8,-4,0"/>
+      <Param name="digital_gain" value="-64,-59,-54,-49,-44,-40,-36,-32,-28,-24,-20,-16,-13,-10,-6,-3"/>
     </ParamUnit>
     <ParamUnit param_id="3">
-      <Param name="digital_gain" value="-64,-59,-54,-49,-44,-40,-36,-32,-28,-24,-20,-16,-12,-8,-4,0"/>
+      <Param name="digital_gain" value="-64,-59,-54,-49,-44,-40,-36,-32,-28,-24,-20,-16,-13,-10,-6,-3"/>
     </ParamUnit>
     <ParamUnit param_id="4">
-      <Param name="digital_gain" value="-64,-59,-54,-49,-44,-40,-36,-32,-28,-24,-20,-16,-12,-8,-4,0"/>
+      <Param name="digital_gain" value="-64,-59,-54,-49,-44,-40,-36,-32,-28,-24,-20,-16,-13,-10,-6,-3"/>
     </ParamUnit>
     <ParamUnit param_id="5">
       <Param name="digital_gain" value="-64,-59,-54,-49,-44,-40,-36,-32,-28,-24,-20,-16,-12,-8,-4,0"/>

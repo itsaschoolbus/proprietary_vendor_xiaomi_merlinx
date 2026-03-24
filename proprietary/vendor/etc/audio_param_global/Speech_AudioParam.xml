@@ -59,42 +59,42 @@
     <Param path="SWB,BT_NREC_On_NB" param_id="22"/>
     <Param path="SWB,BT_NREC_On_WB" param_id="22"/>
     <Param path="SWB,BT_NREC_Off" param_id="22"/>
-    <Param path="Default,NB,Normal,0,GSM" param_id="28"/>
-    <Param path="Default,NB,Normal,1,GSM" param_id="28"/>
-    <Param path="Default,NB,Normal,2,GSM" param_id="28"/>
-    <Param path="Default,NB,Normal,3,GSM" param_id="28"/>
-    <Param path="Default,NB,Normal,4,GSM" param_id="28"/>
-    <Param path="Default,NB,Normal,5,GSM" param_id="28"/>
-    <Param path="Default,NB,Normal,6,GSM" param_id="28"/>
-    <Param path="Default,NB,Normal,7,GSM" param_id="28"/>
-    <Param path="Default,NB,Normal,8,GSM" param_id="28"/>
-    <Param path="Default,NB,Normal,9,GSM" param_id="28"/>
-    <Param path="Default,NB,Normal,10,GSM" param_id="28"/>
-    <Param path="Default,NB,HAC,0,GSM" param_id="28"/>
-    <Param path="Default,NB,HAC,1,GSM" param_id="28"/>
-    <Param path="Default,NB,HAC,2,GSM" param_id="28"/>
-    <Param path="Default,NB,HAC,3,GSM" param_id="28"/>
-    <Param path="Default,NB,HAC,4,GSM" param_id="28"/>
-    <Param path="Default,NB,HAC,5,GSM" param_id="28"/>
-    <Param path="Default,NB,HAC,6,GSM" param_id="28"/>
-    <Param path="Default,NB,HAC,7,GSM" param_id="28"/>
-    <Param path="Default,NB,HAC,8,GSM" param_id="28"/>
-    <Param path="Default,NB,HAC,9,GSM" param_id="28"/>
-    <Param path="Default,NB,HAC,10,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_HCO_Handset,0,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_HCO_Handset,1,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_HCO_Handset,2,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_HCO_Handset,3,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_HCO_Handset,4,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_HCO_Handset,5,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_HCO_Handset,6,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_VCO_Handset,0,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_VCO_Handset,1,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_VCO_Handset,2,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_VCO_Handset,3,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_VCO_Handset,4,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_VCO_Handset,5,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_VCO_Handset,6,GSM" param_id="28"/>
+    <Param path="Default,NB,Normal,0,GSM" param_id="29"/>
+    <Param path="Default,NB,Normal,1,GSM" param_id="29"/>
+    <Param path="Default,NB,Normal,2,GSM" param_id="29"/>
+    <Param path="Default,NB,Normal,3,GSM" param_id="29"/>
+    <Param path="Default,NB,Normal,4,GSM" param_id="29"/>
+    <Param path="Default,NB,Normal,5,GSM" param_id="29"/>
+    <Param path="Default,NB,Normal,6,GSM" param_id="29"/>
+    <Param path="Default,NB,Normal,7,GSM" param_id="29"/>
+    <Param path="Default,NB,Normal,8,GSM" param_id="29"/>
+    <Param path="Default,NB,Normal,9,GSM" param_id="29"/>
+    <Param path="Default,NB,Normal,10,GSM" param_id="29"/>
+    <Param path="Default,NB,HAC,0,GSM" param_id="29"/>
+    <Param path="Default,NB,HAC,1,GSM" param_id="29"/>
+    <Param path="Default,NB,HAC,2,GSM" param_id="29"/>
+    <Param path="Default,NB,HAC,3,GSM" param_id="29"/>
+    <Param path="Default,NB,HAC,4,GSM" param_id="29"/>
+    <Param path="Default,NB,HAC,5,GSM" param_id="29"/>
+    <Param path="Default,NB,HAC,6,GSM" param_id="29"/>
+    <Param path="Default,NB,HAC,7,GSM" param_id="29"/>
+    <Param path="Default,NB,HAC,8,GSM" param_id="29"/>
+    <Param path="Default,NB,HAC,9,GSM" param_id="29"/>
+    <Param path="Default,NB,HAC,10,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_HCO_Handset,0,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_HCO_Handset,1,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_HCO_Handset,2,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_HCO_Handset,3,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_HCO_Handset,4,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_HCO_Handset,5,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_HCO_Handset,6,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_VCO_Handset,0,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_VCO_Handset,1,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_VCO_Handset,2,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_VCO_Handset,3,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_VCO_Handset,4,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_VCO_Handset,5,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_VCO_Handset,6,GSM" param_id="29"/>
     <Param path="Default,NB,3_pole_Headset,0,GSM" param_id="37"/>
     <Param path="Default,NB,3_pole_Headset,1,GSM" param_id="37"/>
     <Param path="Default,NB,3_pole_Headset,2,GSM" param_id="37"/>
@@ -109,34 +109,34 @@
     <Param path="Default,NB,4_pole_Headset,4,GSM" param_id="37"/>
     <Param path="Default,NB,4_pole_Headset,5,GSM" param_id="37"/>
     <Param path="Default,NB,4_pole_Headset,6,GSM" param_id="37"/>
-    <Param path="Default,NB,Handsfree,0,GSM" param_id="44"/>
-    <Param path="Default,NB,Handsfree,1,GSM" param_id="44"/>
-    <Param path="Default,NB,Handsfree,2,GSM" param_id="44"/>
-    <Param path="Default,NB,Handsfree,3,GSM" param_id="44"/>
-    <Param path="Default,NB,Handsfree,4,GSM" param_id="44"/>
-    <Param path="Default,NB,Handsfree,5,GSM" param_id="44"/>
-    <Param path="Default,NB,Handsfree,6,GSM" param_id="44"/>
-    <Param path="Default,NB,MagiConference,0,GSM" param_id="44"/>
-    <Param path="Default,NB,MagiConference,1,GSM" param_id="44"/>
-    <Param path="Default,NB,MagiConference,2,GSM" param_id="44"/>
-    <Param path="Default,NB,MagiConference,3,GSM" param_id="44"/>
-    <Param path="Default,NB,MagiConference,4,GSM" param_id="44"/>
-    <Param path="Default,NB,MagiConference,5,GSM" param_id="44"/>
-    <Param path="Default,NB,MagiConference,6,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,0,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,1,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,2,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,3,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,4,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,5,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,6,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,0,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,1,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,2,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,3,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,4,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,5,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,6,GSM" param_id="44"/>
+    <Param path="Default,NB,Handsfree,0,GSM" param_id="23"/>
+    <Param path="Default,NB,Handsfree,1,GSM" param_id="23"/>
+    <Param path="Default,NB,Handsfree,2,GSM" param_id="23"/>
+    <Param path="Default,NB,Handsfree,3,GSM" param_id="23"/>
+    <Param path="Default,NB,Handsfree,4,GSM" param_id="23"/>
+    <Param path="Default,NB,Handsfree,5,GSM" param_id="23"/>
+    <Param path="Default,NB,Handsfree,6,GSM" param_id="23"/>
+    <Param path="Default,NB,MagiConference,0,GSM" param_id="23"/>
+    <Param path="Default,NB,MagiConference,1,GSM" param_id="23"/>
+    <Param path="Default,NB,MagiConference,2,GSM" param_id="23"/>
+    <Param path="Default,NB,MagiConference,3,GSM" param_id="23"/>
+    <Param path="Default,NB,MagiConference,4,GSM" param_id="23"/>
+    <Param path="Default,NB,MagiConference,5,GSM" param_id="23"/>
+    <Param path="Default,NB,MagiConference,6,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,0,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,1,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,2,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,3,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,4,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,5,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,6,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,0,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,1,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,2,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,3,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,4,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,5,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,6,GSM" param_id="23"/>
     <Param path="Default,NB,BT_NREC_On_NB,0,GSM" param_id="50"/>
     <Param path="Default,NB,BT_NREC_On_NB,1,GSM" param_id="50"/>
     <Param path="Default,NB,BT_NREC_On_NB,2,GSM" param_id="50"/>
@@ -525,34 +525,34 @@
     <Param path="Default,WB,4_pole_Headset,4,GSM" param_id="38"/>
     <Param path="Default,WB,4_pole_Headset,5,GSM" param_id="38"/>
     <Param path="Default,WB,4_pole_Headset,6,GSM" param_id="38"/>
-    <Param path="Default,WB,Handsfree,0,GSM" param_id="45"/>
-    <Param path="Default,WB,Handsfree,1,GSM" param_id="45"/>
-    <Param path="Default,WB,Handsfree,2,GSM" param_id="45"/>
-    <Param path="Default,WB,Handsfree,3,GSM" param_id="45"/>
-    <Param path="Default,WB,Handsfree,4,GSM" param_id="45"/>
-    <Param path="Default,WB,Handsfree,5,GSM" param_id="45"/>
-    <Param path="Default,WB,Handsfree,6,GSM" param_id="45"/>
-    <Param path="Default,WB,MagiConference,0,GSM" param_id="45"/>
-    <Param path="Default,WB,MagiConference,1,GSM" param_id="45"/>
-    <Param path="Default,WB,MagiConference,2,GSM" param_id="45"/>
-    <Param path="Default,WB,MagiConference,3,GSM" param_id="45"/>
-    <Param path="Default,WB,MagiConference,4,GSM" param_id="45"/>
-    <Param path="Default,WB,MagiConference,5,GSM" param_id="45"/>
-    <Param path="Default,WB,MagiConference,6,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,0,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,1,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,2,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,3,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,4,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,5,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,6,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,0,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,1,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,2,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,3,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,4,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,5,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,6,GSM" param_id="45"/>
+    <Param path="Default,WB,Handsfree,0,GSM" param_id="27"/>
+    <Param path="Default,WB,Handsfree,1,GSM" param_id="27"/>
+    <Param path="Default,WB,Handsfree,2,GSM" param_id="27"/>
+    <Param path="Default,WB,Handsfree,3,GSM" param_id="27"/>
+    <Param path="Default,WB,Handsfree,4,GSM" param_id="27"/>
+    <Param path="Default,WB,Handsfree,5,GSM" param_id="27"/>
+    <Param path="Default,WB,Handsfree,6,GSM" param_id="27"/>
+    <Param path="Default,WB,MagiConference,0,GSM" param_id="27"/>
+    <Param path="Default,WB,MagiConference,1,GSM" param_id="27"/>
+    <Param path="Default,WB,MagiConference,2,GSM" param_id="27"/>
+    <Param path="Default,WB,MagiConference,3,GSM" param_id="27"/>
+    <Param path="Default,WB,MagiConference,4,GSM" param_id="27"/>
+    <Param path="Default,WB,MagiConference,5,GSM" param_id="27"/>
+    <Param path="Default,WB,MagiConference,6,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,0,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,1,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,2,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,3,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,4,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,5,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,6,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,0,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,1,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,2,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,3,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,4,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,5,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,6,GSM" param_id="27"/>
     <Param path="Default,WB,BT_NREC_On_NB,0,GSM" param_id="54"/>
     <Param path="Default,WB,BT_NREC_On_NB,1,GSM" param_id="54"/>
     <Param path="Default,WB,BT_NREC_On_NB,2,GSM" param_id="54"/>
@@ -1180,14 +1180,14 @@
     <Param path="Default,SWB,Handsfree_SV,4,VOLTE" param_id="2577"/>
     <Param path="Default,SWB,Handsfree_SV,5,VOLTE" param_id="2577"/>
     <Param path="Default,SWB,Handsfree_SV,6,VOLTE" param_id="2577"/>
-    <Param path="Default,NB,Tty_HCO_Handset,7,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_HCO_Handset,8,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_HCO_Handset,9,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_HCO_Handset,10,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_VCO_Handset,7,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_VCO_Handset,8,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_VCO_Handset,9,GSM" param_id="28"/>
-    <Param path="Default,NB,Tty_VCO_Handset,10,GSM" param_id="28"/>
+    <Param path="Default,NB,Tty_HCO_Handset,7,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_HCO_Handset,8,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_HCO_Handset,9,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_HCO_Handset,10,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_VCO_Handset,7,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_VCO_Handset,8,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_VCO_Handset,9,GSM" param_id="29"/>
+    <Param path="Default,NB,Tty_VCO_Handset,10,GSM" param_id="29"/>
     <Param path="Default,NB,3_pole_Headset,7,GSM" param_id="37"/>
     <Param path="Default,NB,3_pole_Headset,8,GSM" param_id="37"/>
     <Param path="Default,NB,3_pole_Headset,9,GSM" param_id="37"/>
@@ -1196,22 +1196,22 @@
     <Param path="Default,NB,4_pole_Headset,8,GSM" param_id="37"/>
     <Param path="Default,NB,4_pole_Headset,9,GSM" param_id="37"/>
     <Param path="Default,NB,4_pole_Headset,10,GSM" param_id="37"/>
-    <Param path="Default,NB,Handsfree,7,GSM" param_id="44"/>
-    <Param path="Default,NB,Handsfree,8,GSM" param_id="44"/>
-    <Param path="Default,NB,Handsfree,9,GSM" param_id="44"/>
-    <Param path="Default,NB,Handsfree,10,GSM" param_id="44"/>
-    <Param path="Default,NB,MagiConference,7,GSM" param_id="44"/>
-    <Param path="Default,NB,MagiConference,8,GSM" param_id="44"/>
-    <Param path="Default,NB,MagiConference,9,GSM" param_id="44"/>
-    <Param path="Default,NB,MagiConference,10,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,7,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,8,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,9,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,10,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,7,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,8,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,9,GSM" param_id="44"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,10,GSM" param_id="44"/>
+    <Param path="Default,NB,Handsfree,7,GSM" param_id="23"/>
+    <Param path="Default,NB,Handsfree,8,GSM" param_id="23"/>
+    <Param path="Default,NB,Handsfree,9,GSM" param_id="23"/>
+    <Param path="Default,NB,Handsfree,10,GSM" param_id="23"/>
+    <Param path="Default,NB,MagiConference,7,GSM" param_id="23"/>
+    <Param path="Default,NB,MagiConference,8,GSM" param_id="23"/>
+    <Param path="Default,NB,MagiConference,9,GSM" param_id="23"/>
+    <Param path="Default,NB,MagiConference,10,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,7,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,8,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,9,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,10,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,7,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,8,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,9,GSM" param_id="23"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,10,GSM" param_id="23"/>
     <Param path="Default,NB,BT_NREC_On_NB,7,GSM" param_id="50"/>
     <Param path="Default,NB,BT_NREC_On_NB,8,GSM" param_id="50"/>
     <Param path="Default,NB,BT_NREC_On_NB,9,GSM" param_id="50"/>
@@ -1364,22 +1364,22 @@
     <Param path="Default,WB,4_pole_Headset,8,GSM" param_id="38"/>
     <Param path="Default,WB,4_pole_Headset,9,GSM" param_id="38"/>
     <Param path="Default,WB,4_pole_Headset,10,GSM" param_id="38"/>
-    <Param path="Default,WB,Handsfree,7,GSM" param_id="45"/>
-    <Param path="Default,WB,Handsfree,8,GSM" param_id="45"/>
-    <Param path="Default,WB,Handsfree,9,GSM" param_id="45"/>
-    <Param path="Default,WB,Handsfree,10,GSM" param_id="45"/>
-    <Param path="Default,WB,MagiConference,7,GSM" param_id="45"/>
-    <Param path="Default,WB,MagiConference,8,GSM" param_id="45"/>
-    <Param path="Default,WB,MagiConference,9,GSM" param_id="45"/>
-    <Param path="Default,WB,MagiConference,10,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,7,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,8,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,9,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,10,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,7,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,8,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,9,GSM" param_id="45"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,10,GSM" param_id="45"/>
+    <Param path="Default,WB,Handsfree,7,GSM" param_id="27"/>
+    <Param path="Default,WB,Handsfree,8,GSM" param_id="27"/>
+    <Param path="Default,WB,Handsfree,9,GSM" param_id="27"/>
+    <Param path="Default,WB,Handsfree,10,GSM" param_id="27"/>
+    <Param path="Default,WB,MagiConference,7,GSM" param_id="27"/>
+    <Param path="Default,WB,MagiConference,8,GSM" param_id="27"/>
+    <Param path="Default,WB,MagiConference,9,GSM" param_id="27"/>
+    <Param path="Default,WB,MagiConference,10,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,7,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,8,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,9,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,10,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,7,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,8,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,9,GSM" param_id="27"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,10,GSM" param_id="27"/>
     <Param path="Default,WB,Handset_SV,7,GSM" param_id="415"/>
     <Param path="Default,WB,Handset_SV,8,GSM" param_id="415"/>
     <Param path="Default,WB,Handset_SV,9,GSM" param_id="415"/>
@@ -1488,50 +1488,50 @@
     <Param path="Default,WB,Handsfree_SV,8,VOLTE" param_id="537"/>
     <Param path="Default,WB,Handsfree_SV,9,VOLTE" param_id="537"/>
     <Param path="Default,WB,Handsfree_SV,10,VOLTE" param_id="537"/>
-    <Param path="Default,NB,Normal,0,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Normal,1,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Normal,2,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Normal,3,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Normal,4,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Normal,5,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Normal,6,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Normal,7,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Normal,8,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Normal,9,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Normal,10,VoLTE" param_id="16"/>
-    <Param path="Default,NB,HAC,0,VoLTE" param_id="16"/>
-    <Param path="Default,NB,HAC,1,VoLTE" param_id="16"/>
-    <Param path="Default,NB,HAC,2,VoLTE" param_id="16"/>
-    <Param path="Default,NB,HAC,3,VoLTE" param_id="16"/>
-    <Param path="Default,NB,HAC,4,VoLTE" param_id="16"/>
-    <Param path="Default,NB,HAC,5,VoLTE" param_id="16"/>
-    <Param path="Default,NB,HAC,6,VoLTE" param_id="16"/>
-    <Param path="Default,NB,HAC,7,VoLTE" param_id="16"/>
-    <Param path="Default,NB,HAC,8,VoLTE" param_id="16"/>
-    <Param path="Default,NB,HAC,9,VoLTE" param_id="16"/>
-    <Param path="Default,NB,HAC,10,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_HCO_Handset,0,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_HCO_Handset,1,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_HCO_Handset,2,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_HCO_Handset,3,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_HCO_Handset,4,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_HCO_Handset,5,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_HCO_Handset,6,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_HCO_Handset,7,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_HCO_Handset,8,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_HCO_Handset,9,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_HCO_Handset,10,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_VCO_Handset,0,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_VCO_Handset,1,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_VCO_Handset,2,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_VCO_Handset,3,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_VCO_Handset,4,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_VCO_Handset,5,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_VCO_Handset,6,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_VCO_Handset,7,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_VCO_Handset,8,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_VCO_Handset,9,VoLTE" param_id="16"/>
-    <Param path="Default,NB,Tty_VCO_Handset,10,VoLTE" param_id="16"/>
+    <Param path="Default,NB,Normal,0,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Normal,1,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Normal,2,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Normal,3,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Normal,4,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Normal,5,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Normal,6,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Normal,7,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Normal,8,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Normal,9,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Normal,10,VoLTE" param_id="34"/>
+    <Param path="Default,NB,HAC,0,VoLTE" param_id="34"/>
+    <Param path="Default,NB,HAC,1,VoLTE" param_id="34"/>
+    <Param path="Default,NB,HAC,2,VoLTE" param_id="34"/>
+    <Param path="Default,NB,HAC,3,VoLTE" param_id="34"/>
+    <Param path="Default,NB,HAC,4,VoLTE" param_id="34"/>
+    <Param path="Default,NB,HAC,5,VoLTE" param_id="34"/>
+    <Param path="Default,NB,HAC,6,VoLTE" param_id="34"/>
+    <Param path="Default,NB,HAC,7,VoLTE" param_id="34"/>
+    <Param path="Default,NB,HAC,8,VoLTE" param_id="34"/>
+    <Param path="Default,NB,HAC,9,VoLTE" param_id="34"/>
+    <Param path="Default,NB,HAC,10,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_HCO_Handset,0,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_HCO_Handset,1,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_HCO_Handset,2,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_HCO_Handset,3,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_HCO_Handset,4,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_HCO_Handset,5,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_HCO_Handset,6,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_HCO_Handset,7,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_HCO_Handset,8,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_HCO_Handset,9,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_HCO_Handset,10,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_VCO_Handset,0,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_VCO_Handset,1,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_VCO_Handset,2,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_VCO_Handset,3,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_VCO_Handset,4,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_VCO_Handset,5,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_VCO_Handset,6,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_VCO_Handset,7,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_VCO_Handset,8,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_VCO_Handset,9,VoLTE" param_id="34"/>
+    <Param path="Default,NB,Tty_VCO_Handset,10,VoLTE" param_id="34"/>
     <Param path="Default,NB,3_pole_Headset,0,VoLTE" param_id="42"/>
     <Param path="Default,NB,3_pole_Headset,1,VoLTE" param_id="42"/>
     <Param path="Default,NB,3_pole_Headset,2,VoLTE" param_id="42"/>
@@ -1554,50 +1554,50 @@
     <Param path="Default,NB,4_pole_Headset,8,VoLTE" param_id="42"/>
     <Param path="Default,NB,4_pole_Headset,9,VoLTE" param_id="42"/>
     <Param path="Default,NB,4_pole_Headset,10,VoLTE" param_id="42"/>
-    <Param path="Default,NB,Handsfree,0,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Handsfree,1,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Handsfree,2,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Handsfree,3,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Handsfree,4,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Handsfree,5,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Handsfree,6,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Handsfree,7,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Handsfree,8,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Handsfree,9,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Handsfree,10,VoLTE" param_id="48"/>
-    <Param path="Default,NB,MagiConference,0,VoLTE" param_id="48"/>
-    <Param path="Default,NB,MagiConference,1,VoLTE" param_id="48"/>
-    <Param path="Default,NB,MagiConference,2,VoLTE" param_id="48"/>
-    <Param path="Default,NB,MagiConference,3,VoLTE" param_id="48"/>
-    <Param path="Default,NB,MagiConference,4,VoLTE" param_id="48"/>
-    <Param path="Default,NB,MagiConference,5,VoLTE" param_id="48"/>
-    <Param path="Default,NB,MagiConference,6,VoLTE" param_id="48"/>
-    <Param path="Default,NB,MagiConference,7,VoLTE" param_id="48"/>
-    <Param path="Default,NB,MagiConference,8,VoLTE" param_id="48"/>
-    <Param path="Default,NB,MagiConference,9,VoLTE" param_id="48"/>
-    <Param path="Default,NB,MagiConference,10,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,0,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,1,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,2,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,3,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,4,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,5,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,6,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,7,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,8,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,9,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_HCO_Handsfree,10,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,0,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,1,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,2,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,3,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,4,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,5,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,6,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,7,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,8,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,9,VoLTE" param_id="48"/>
-    <Param path="Default,NB,Tty_VCO_Handsfree,10,VoLTE" param_id="48"/>
+    <Param path="Default,NB,Handsfree,0,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Handsfree,1,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Handsfree,2,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Handsfree,3,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Handsfree,4,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Handsfree,5,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Handsfree,6,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Handsfree,7,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Handsfree,8,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Handsfree,9,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Handsfree,10,VoLTE" param_id="26"/>
+    <Param path="Default,NB,MagiConference,0,VoLTE" param_id="26"/>
+    <Param path="Default,NB,MagiConference,1,VoLTE" param_id="26"/>
+    <Param path="Default,NB,MagiConference,2,VoLTE" param_id="26"/>
+    <Param path="Default,NB,MagiConference,3,VoLTE" param_id="26"/>
+    <Param path="Default,NB,MagiConference,4,VoLTE" param_id="26"/>
+    <Param path="Default,NB,MagiConference,5,VoLTE" param_id="26"/>
+    <Param path="Default,NB,MagiConference,6,VoLTE" param_id="26"/>
+    <Param path="Default,NB,MagiConference,7,VoLTE" param_id="26"/>
+    <Param path="Default,NB,MagiConference,8,VoLTE" param_id="26"/>
+    <Param path="Default,NB,MagiConference,9,VoLTE" param_id="26"/>
+    <Param path="Default,NB,MagiConference,10,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,0,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,1,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,2,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,3,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,4,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,5,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,6,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,7,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,8,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,9,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_HCO_Handsfree,10,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,0,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,1,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,2,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,3,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,4,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,5,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,6,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,7,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,8,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,9,VoLTE" param_id="26"/>
+    <Param path="Default,NB,Tty_VCO_Handsfree,10,VoLTE" param_id="26"/>
     <Param path="Default,NB,BT_NREC_On_NB,0,VoLTE" param_id="63"/>
     <Param path="Default,NB,BT_NREC_On_NB,1,VoLTE" param_id="63"/>
     <Param path="Default,NB,BT_NREC_On_NB,2,VoLTE" param_id="63"/>
@@ -1752,50 +1752,50 @@
     <Param path="Default,WB,4_pole_Headset,8,VoLTE" param_id="18"/>
     <Param path="Default,WB,4_pole_Headset,9,VoLTE" param_id="18"/>
     <Param path="Default,WB,4_pole_Headset,10,VoLTE" param_id="18"/>
-    <Param path="Default,WB,Handsfree,0,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Handsfree,1,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Handsfree,2,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Handsfree,3,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Handsfree,4,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Handsfree,5,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Handsfree,6,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Handsfree,7,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Handsfree,8,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Handsfree,9,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Handsfree,10,VoLTE" param_id="49"/>
-    <Param path="Default,WB,MagiConference,0,VoLTE" param_id="49"/>
-    <Param path="Default,WB,MagiConference,1,VoLTE" param_id="49"/>
-    <Param path="Default,WB,MagiConference,2,VoLTE" param_id="49"/>
-    <Param path="Default,WB,MagiConference,3,VoLTE" param_id="49"/>
-    <Param path="Default,WB,MagiConference,4,VoLTE" param_id="49"/>
-    <Param path="Default,WB,MagiConference,5,VoLTE" param_id="49"/>
-    <Param path="Default,WB,MagiConference,6,VoLTE" param_id="49"/>
-    <Param path="Default,WB,MagiConference,7,VoLTE" param_id="49"/>
-    <Param path="Default,WB,MagiConference,8,VoLTE" param_id="49"/>
-    <Param path="Default,WB,MagiConference,9,VoLTE" param_id="49"/>
-    <Param path="Default,WB,MagiConference,10,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,0,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,1,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,2,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,3,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,4,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,5,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,6,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,7,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,8,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,9,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_HCO_Handsfree,10,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,0,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,1,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,2,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,3,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,4,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,5,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,6,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,7,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,8,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,9,VoLTE" param_id="49"/>
-    <Param path="Default,WB,Tty_VCO_Handsfree,10,VoLTE" param_id="49"/>
+    <Param path="Default,WB,Handsfree,0,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Handsfree,1,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Handsfree,2,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Handsfree,3,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Handsfree,4,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Handsfree,5,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Handsfree,6,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Handsfree,7,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Handsfree,8,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Handsfree,9,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Handsfree,10,VoLTE" param_id="20"/>
+    <Param path="Default,WB,MagiConference,0,VoLTE" param_id="20"/>
+    <Param path="Default,WB,MagiConference,1,VoLTE" param_id="20"/>
+    <Param path="Default,WB,MagiConference,2,VoLTE" param_id="20"/>
+    <Param path="Default,WB,MagiConference,3,VoLTE" param_id="20"/>
+    <Param path="Default,WB,MagiConference,4,VoLTE" param_id="20"/>
+    <Param path="Default,WB,MagiConference,5,VoLTE" param_id="20"/>
+    <Param path="Default,WB,MagiConference,6,VoLTE" param_id="20"/>
+    <Param path="Default,WB,MagiConference,7,VoLTE" param_id="20"/>
+    <Param path="Default,WB,MagiConference,8,VoLTE" param_id="20"/>
+    <Param path="Default,WB,MagiConference,9,VoLTE" param_id="20"/>
+    <Param path="Default,WB,MagiConference,10,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,0,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,1,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,2,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,3,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,4,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,5,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,6,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,7,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,8,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,9,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_HCO_Handsfree,10,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,0,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,1,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,2,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,3,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,4,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,5,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,6,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,7,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,8,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,9,VoLTE" param_id="20"/>
+    <Param path="Default,WB,Tty_VCO_Handsfree,10,VoLTE" param_id="20"/>
     <Param path="Default,WB,BT_NREC_On_NB,0,VoLTE" param_id="64"/>
     <Param path="Default,WB,BT_NREC_On_NB,1,VoLTE" param_id="64"/>
     <Param path="Default,WB,BT_NREC_On_NB,2,VoLTE" param_id="64"/>
@@ -3009,52 +3009,6 @@
       <Param name="sph_in_parameter" value="-5.000000,0.000000,0.000000,0.000000"/>
       <Param name="sph_out_parameter" value="-1.000000,0.000000"/>
     </ParamUnit>
-    <ParamUnit param_id="16">
-      <Param name="speech_mode_para" value="0x40,0xFD,0x40BB,0x3F,0xE007,0xA00C,0x19F,0x0,0xF10,0xC4,0x263,0x0,0x3008,0xFFF4,0x1B3E,0xB000,0xF6F6,0x2ED,0x4167,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0xEFEF,0xBD7C,0xE900,0x6B00,0xB600,0xE400,0xA400,0xE400,0x90F,0x100F,0x100F,0x1B0F,0x150F,0x30,0x3028,0x5350,0x7878,0x8AA0"/>
-      <Param name="sph_in_fir" value="0x83,0xFF15,0x15,0xFEC4,0x2E,0xFF0E,0x9F,0xFF75,0x116,0xFFAD,0x114,0xFF5D,0xC9,0xFED2,0xF,0xFE0A,0x3B,0xFF19,0x14A,0xFE69,0xFF4C,0xFCE2,0x86,0xFFE9,0x328,0xFFDA,0x183,0xFDBD,0x3A,0xFC7D,0x9D,0xFEDB,0x497,0xFE78,0xFE00,0xF473,0xFCD1,0xFF02,0xDC0,0x1F9,0x121,0xEB64,0x3C9,0xFA0A,0x47FA,0x47FA,0xFA0A,0x3C9,0xEB64,0x121,0x1F9,0xDC0,0xFF02,0xFCD1,0xF473,0xFE00,0xFE78,0x497,0xFEDB,0x9D,0xFC7D,0x3A,0xFDBD,0x183,0xFFDA,0x328,0xFFE9,0x86,0xFCE2,0xFF4C,0xFE69,0x14A,0xFF19,0x3B,0xFE0A,0xF,0xFED2,0xC9,0xFF5D,0x114,0xFFAD,0x116,0xFF75,0x9F,0xFF0E,0x2E,0xFEC4,0x15,0xFF15,0x83"/>
-      <Param name="sph_out_fir" value="0xFF2C,0xFD52,0xFF37,0xFDF8,0xFFFF,0xFE4A,0x31,0xFE7D,0x81,0xFE6E,0x4D,0xFE1A,0x19,0xFD84,0xFF65,0xFCDB,0xFF81,0xFD40,0x1,0xFD3E,0x1B,0xFD3B,0x68,0xFD4B,0xFD,0xFDE2,0x1F6,0xFE0A,0x22B,0xFDD4,0x2DD,0xFDF8,0x375,0xFD7D,0x410,0xFD05,0x4F3,0xFC04,0x66C,0xFAAA,0x8F4,0xF675,0xE98,0xE8B1,0x47FA,0x47FA,0xE8B1,0xE98,0xF675,0x8F4,0xFAAA,0x66C,0xFC04,0x4F3,0xFD05,0x410,0xFD7D,0x375,0xFDF8,0x2DD,0xFDD4,0x22B,0xFE0A,0x1F6,0xFDE2,0xFD,0xFD4B,0x68,0xFD3B,0x1B,0xFD3E,0x1,0xFD40,0xFF81,0xFCDB,0xFF65,0xFD84,0x19,0xFE1A,0x4D,0xFE6E,0x81,0xFE7D,0x31,0xFE4A,0xFFFF,0xFDF8,0xFF37,0xFD52,0xFF2C"/>
-      <Param name="sph_in_fir_eq_freq" value="100.000000,260.000000,350.000000,744.000000,899.000000,1112.000000,1789.000000,1987.000000,2187.000000,2339.000000,2477.000000,3000.000000,3399.000000,4000.000000"/>
-      <Param name="sph_out_fir_eq_freq" value="105.000000,232.000000,279.000000,338.000000,379.000000,454.000000,550.000000,623.000000,762.000000,864.000000,997.000000,1146.000000,1375.000000,1712.000000,2026.000000,2295.000000,2649.000000,3178.000000,4000.000000"/>
-      <Param name="sph_in_fir_eq_mag" value="-1.000000,1.000000,1.000000,2.000000,3.000000,0.000000,1.000000,1.000000,5.000000,7.000000,7.000000,3.000000,-5.160000,0.000000"/>
-      <Param name="sph_out_fir_eq_mag" value="1.190000,3.610000,4.940000,1.060000,-1.140000,-0.390000,-0.200000,-1.660000,-1.250000,1.300000,0.000000,0.000000,-0.310000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
-      <Param name="sph_in_iir_mic1_dsp" value="0xE342,0x3CA1,0x1DDC,0xC448,0x1DDC,0xE0E8,0x3F04,0x2000,0xC001,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
-      <Param name="sph_in_iir_mic1_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_mic1_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_iir_mic2_dsp" value="0xE0B7,0x3F42,0x1ECC,0xC268,0x1ECC,0xE1B2,0x3E47,0x2000,0xC000,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
-      <Param name="sph_in_iir_mic2_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_mic2_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
-      <Param name="sph_out_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
-      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_parameter" value="-5.000000,0.000000,0.000000,0.000000"/>
-      <Param name="sph_out_parameter" value="-5.000000,0.000000"/>
-    </ParamUnit>
-    <ParamUnit param_id="28">
-      <Param name="speech_mode_para" value="0x40,0xFD,0x40BB,0x3F,0xE007,0xA00C,0x19F,0x0,0xF10,0xC4,0x263,0x0,0x3008,0xFFF7,0x1B3E,0xB000,0xF6F6,0x2ED,0x4167,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0xEFEF,0xBD7C,0xE900,0x6B00,0xB600,0xE400,0xA400,0xE400,0x90F,0x100F,0x100F,0x1B0F,0x150F,0x30,0x3028,0x5350,0x7878,0x8AA0"/>
-      <Param name="sph_in_fir" value="0x83,0xFF15,0x15,0xFEC4,0x2E,0xFF0E,0x9F,0xFF75,0x116,0xFFAD,0x114,0xFF5D,0xC9,0xFED2,0xF,0xFE0A,0x3B,0xFF19,0x14A,0xFE69,0xFF4C,0xFCE2,0x86,0xFFE9,0x328,0xFFDA,0x183,0xFDBD,0x3A,0xFC7D,0x9D,0xFEDB,0x497,0xFE78,0xFE00,0xF473,0xFCD1,0xFF02,0xDC0,0x1F9,0x121,0xEB64,0x3C9,0xFA0A,0x47FA,0x47FA,0xFA0A,0x3C9,0xEB64,0x121,0x1F9,0xDC0,0xFF02,0xFCD1,0xF473,0xFE00,0xFE78,0x497,0xFEDB,0x9D,0xFC7D,0x3A,0xFDBD,0x183,0xFFDA,0x328,0xFFE9,0x86,0xFCE2,0xFF4C,0xFE69,0x14A,0xFF19,0x3B,0xFE0A,0xF,0xFED2,0xC9,0xFF5D,0x114,0xFFAD,0x116,0xFF75,0x9F,0xFF0E,0x2E,0xFEC4,0x15,0xFF15,0x83"/>
-      <Param name="sph_out_fir" value="0xFF2C,0xFD52,0xFF37,0xFDF8,0xFFFF,0xFE4A,0x31,0xFE7D,0x81,0xFE6E,0x4D,0xFE1A,0x19,0xFD84,0xFF65,0xFCDB,0xFF81,0xFD40,0x1,0xFD3E,0x1B,0xFD3B,0x68,0xFD4B,0xFD,0xFDE2,0x1F6,0xFE0A,0x22B,0xFDD4,0x2DD,0xFDF8,0x375,0xFD7D,0x410,0xFD05,0x4F3,0xFC04,0x66C,0xFAAA,0x8F4,0xF675,0xE98,0xE8B1,0x47FA,0x47FA,0xE8B1,0xE98,0xF675,0x8F4,0xFAAA,0x66C,0xFC04,0x4F3,0xFD05,0x410,0xFD7D,0x375,0xFDF8,0x2DD,0xFDD4,0x22B,0xFE0A,0x1F6,0xFDE2,0xFD,0xFD4B,0x68,0xFD3B,0x1B,0xFD3E,0x1,0xFD40,0xFF81,0xFCDB,0xFF65,0xFD84,0x19,0xFE1A,0x4D,0xFE6E,0x81,0xFE7D,0x31,0xFE4A,0xFFFF,0xFDF8,0xFF37,0xFD52,0xFF2C"/>
-      <Param name="sph_in_fir_eq_freq" value="100.000000,260.000000,350.000000,744.000000,899.000000,1112.000000,1789.000000,1987.000000,2187.000000,2339.000000,2477.000000,3000.000000,3399.000000,4000.000000"/>
-      <Param name="sph_out_fir_eq_freq" value="105.000000,232.000000,279.000000,338.000000,379.000000,454.000000,550.000000,623.000000,762.000000,864.000000,997.000000,1146.000000,1375.000000,1712.000000,2026.000000,2295.000000,2649.000000,3178.000000,4000.000000"/>
-      <Param name="sph_in_fir_eq_mag" value="-1.000000,1.000000,1.000000,2.000000,3.000000,0.000000,1.000000,1.000000,5.000000,7.000000,7.000000,3.000000,-5.160000,0.000000"/>
-      <Param name="sph_out_fir_eq_mag" value="1.190000,3.610000,4.940000,1.060000,-1.140000,-0.390000,-0.200000,-1.660000,-1.250000,1.300000,0.000000,0.000000,-0.310000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
-      <Param name="sph_in_iir_mic1_dsp" value="0xE342,0x3CA1,0x1DDC,0xC448,0x1DDC,0xE0E8,0x3F04,0x2000,0xC001,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
-      <Param name="sph_in_iir_mic1_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_mic1_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_iir_mic2_dsp" value="0xE0B7,0x3F42,0x1ECC,0xC268,0x1ECC,0xE1B2,0x3E47,0x2000,0xC000,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
-      <Param name="sph_in_iir_mic2_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_mic2_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
-      <Param name="sph_out_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
-      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_parameter" value="-5.000000,0.000000,0.000000,0.000000"/>
-      <Param name="sph_out_parameter" value="-5.000000,0.000000"/>
-    </ParamUnit>
     <ParamUnit param_id="31">
       <Param name="speech_mode_para" value="0x40,0xFD,0x4044,0x1F,0xE007,0xA00C,0x19F,0x0,0xF10,0xC4,0x263,0x0,0x3808,0xFFF5,0x1B7E,0xB000,0xF6F6,0x2ED,0x4167,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0xEFEF,0xBD7C,0xE900,0x6B00,0xB600,0xE400,0xA400,0xE400,0x90F,0x100F,0x100F,0x1B0F,0x150F,0x30,0x3028,0x5350,0x7878,0x8AA0"/>
       <Param name="sph_in_fir" value="0x83,0xFF15,0x15,0xFEC4,0x2E,0xFF0E,0x9F,0xFF75,0x116,0xFFAD,0x114,0xFF5D,0xC9,0xFED2,0xF,0xFE0A,0x3B,0xFF19,0x14A,0xFE69,0xFF4C,0xFCE2,0x86,0xFFE9,0x328,0xFFDA,0x183,0xFDBD,0x3A,0xFC7D,0x9D,0xFEDB,0x497,0xFE78,0xFE00,0xF473,0xFCD1,0xFF02,0xDC0,0x1F9,0x121,0xEB64,0x3C9,0xFA0A,0x47FA,0x47FA,0xFA0A,0x3C9,0xEB64,0x121,0x1F9,0xDC0,0xFF02,0xFCD1,0xF473,0xFE00,0xFE78,0x497,0xFEDB,0x9D,0xFC7D,0x3A,0xFDBD,0x183,0xFFDA,0x328,0xFFE9,0x86,0xFCE2,0xFF4C,0xFE69,0x14A,0xFF19,0x3B,0xFE0A,0xF,0xFED2,0xC9,0xFF5D,0x114,0xFFAD,0x116,0xFF75,0x9F,0xFF0E,0x2E,0xFEC4,0x15,0xFF15,0x83"/>
@@ -3239,52 +3193,6 @@
       <Param name="sph_in_parameter" value="-2.000000,0.000000,0.000000,0.000000"/>
       <Param name="sph_out_parameter" value="-1.000000,0.000000"/>
     </ParamUnit>
-    <ParamUnit param_id="44">
-      <Param name="speech_mode_para" value="0x8004,0xE0,0x8000,0x100F,0xA006,0x201F,0x19A,0x0,0x50,0xC6,0x262,0x0,0x4040,0x73,0x15F7,0xA,0xDBDC,0x2FF,0x7949,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0xE8,0x6C,0xAD,0xE4,0x64,0xA4,0x7,0xF,0xF,0xF,0x31,0x6,0x1E,0x3C,0x5A,0x8C"/>
-      <Param name="sph_in_fir" value="0x31,0xFF25,0x16C,0x71,0x25E,0x91,0x200,0xFFDD,0x148,0xFEF6,0x84,0xFE42,0x16,0xFDBF,0xFFC5,0xFD81,0xFFF3,0xFD9E,0x20,0xFD86,0x54,0xFDBF,0x11B,0xFEA4,0x285,0xFF7A,0x2CD,0xFE6C,0x1F7,0xFDD9,0x2CC,0xFDFB,0x218,0xFA09,0xFD35,0xF468,0xFC80,0xF72F,0x4B0,0xFB00,0x7A4,0xF530,0xE1E,0xEEF8,0x50C2,0x50C2,0xEEF8,0xE1E,0xF530,0x7A4,0xFB00,0x4B0,0xF72F,0xFC80,0xF468,0xFD35,0xFA09,0x218,0xFDFB,0x2CC,0xFDD9,0x1F7,0xFE6C,0x2CD,0xFF7A,0x285,0xFEA4,0x11B,0xFDBF,0x54,0xFD86,0x20,0xFD9E,0xFFF3,0xFD81,0xFFC5,0xFDBF,0x16,0xFE42,0x84,0xFEF6,0x148,0xFFDD,0x200,0x91,0x25E,0x71,0x16C,0xFF25,0x31"/>
-      <Param name="sph_out_fir" value="0x219,0xFFA8,0xB6,0xFE03,0x23,0xFE57,0xA4,0xFE2C,0x61,0xFE26,0xD4,0xFE71,0x14C,0xFF1D,0x26A,0xFFC9,0x2CB,0xFFEB,0x361,0xFFE1,0x263,0xFD97,0x80,0xFC21,0xFFA0,0xFA65,0xFE29,0xF930,0xFE84,0xF9A7,0x85,0xFC58,0x4E2,0xFDF8,0x44C,0xFA97,0x5D1,0xFE4A,0xB1B,0xF71C,0xFFAD,0xE563,0x894,0xE7E3,0x65AB,0x65AB,0xE7E3,0x894,0xE563,0xFFAD,0xF71C,0xB1B,0xFE4A,0x5D1,0xFA97,0x44C,0xFDF8,0x4E2,0xFC58,0x85,0xF9A7,0xFE84,0xF930,0xFE29,0xFA65,0xFFA0,0xFC21,0x80,0xFD97,0x263,0xFFE1,0x361,0xFFEB,0x2CB,0xFFC9,0x26A,0xFF1D,0x14C,0xFE71,0xD4,0xFE26,0x61,0xFE2C,0xA4,0xFE57,0x23,0xFE03,0xB6,0xFFA8,0x219"/>
-      <Param name="sph_in_fir_eq_freq" value="100.000000,304.000000,388.000000,611.000000,809.000000,906.000000,1008.000000,1095.000000,1146.000000,1314.000000,1890.000000,2249.000000,2500.000000,3000.000000,4000.000000"/>
-      <Param name="sph_out_fir_eq_freq" value="100.000000,400.000000,650.000000,828.000000,1000.000000,1200.000000,1600.000000,2500.000000,3386.000000,4000.000000"/>
-      <Param name="sph_in_fir_eq_mag" value="-6.000000,-1.000000,-1.000000,-1.000000,4.000000,1.840000,1.000000,1.000000,1.000000,-2.760000,-4.290000,-0.310000,0.000000,-2.000000,0.000000"/>
-      <Param name="sph_out_fir_eq_mag" value="-5.000000,0.000000,0.000000,-8.880000,-3.000000,1.500000,1.500000,3.000000,-2.000000,-2.000000"/>
-      <Param name="sph_in_iir_mic1_dsp" value="0xE342,0x3CA1,0x1DDC,0xC448,0x1DDC,0xE0E8,0x3F04,0x2000,0xC001,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
-      <Param name="sph_in_iir_mic1_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_mic1_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_iir_mic2_dsp" value="0xE0B7,0x3F42,0x1ECC,0xC268,0x1ECC,0xE1B2,0x3E47,0x2000,0xC000,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
-      <Param name="sph_in_iir_mic2_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_mic2_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
-      <Param name="sph_out_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
-      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_parameter" value="-4.000000,0.000000,0.000000,0.000000"/>
-      <Param name="sph_out_parameter" value="-2.000000,0.000000"/>
-    </ParamUnit>
-    <ParamUnit param_id="45">
-      <Param name="speech_mode_para" value="0x8004,0xE0,0x8000,0x101F,0xA106,0x201F,0x195,0x0,0x1D0,0xC6,0x262,0x0,0x405C,0x73,0x15F7,0xA,0xDBDC,0x2ED,0x14A3,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0xE9E9,0x6C6B,0xADB6,0xE4E4,0x64A4,0xA4E4,0x70B,0xF10,0xF0F,0xF0E,0x3128,0x63,0x1E11,0x3C36,0x5A54,0x8C64"/>
-      <Param name="sph_in_fir" value="0x63,0x0,0x9,0xFFAA,0xFFFB,0xFF98,0x4,0xFF9E,0xFFF8,0xFF92,0xFFFE,0xFF87,0xFFF7,0xFF71,0xFFF0,0xFF27,0xFFC1,0xFED2,0xFF94,0xFE8F,0xFF5B,0xFE6D,0xFF42,0xFE9D,0xFF79,0xFE89,0xFF7A,0xFE89,0xFF56,0xFE2E,0xFF55,0xFD68,0xFEE4,0xFD07,0xFEB7,0xFC39,0xFEFA,0xFC9C,0x42,0xFD2C,0x169,0xF9E2,0x321,0x6E6,0x50C2,0x50C2,0x6E6,0x321,0xF9E2,0x169,0xFD2C,0x42,0xFC9C,0xFEFA,0xFC39,0xFEB7,0xFD07,0xFEE4,0xFD68,0xFF55,0xFE2E,0xFF56,0xFE89,0xFF7A,0xFE89,0xFF79,0xFE9D,0xFF42,0xFE6D,0xFF5B,0xFE8F,0xFF94,0xFED2,0xFFC1,0xFF27,0xFFF0,0xFF71,0xFFF7,0xFF87,0xFFFE,0xFF92,0xFFF8,0xFF9E,0x4,0xFF98,0xFFFB,0xFFAA,0x9,0x0,0x63"/>
-      <Param name="sph_out_fir" value="0xFF84,0xFEBB,0xFF6D,0xFE67,0xFF79,0xFEAA,0x57,0xFFDE,0x171,0xA9,0x1BF,0xE9,0x1BC,0x57,0x16D,0xFFAA,0xFD,0xFE77,0xA,0xFD1D,0x18,0xFD42,0xFFAF,0xFD21,0xFF18,0xFE24,0xBF,0xFF61,0x15E,0xFDE0,0x13B,0xFEFD,0x508,0xFF35,0x2A5,0xFB88,0x3C1,0xFF01,0x90D,0xFCAC,0xB1,0xF272,0xF78,0xEDAE,0x4026,0x4026,0xEDAE,0xF78,0xF272,0xB1,0xFCAC,0x90D,0xFF01,0x3C1,0xFB88,0x2A5,0xFF35,0x508,0xFEFD,0x13B,0xFDE0,0x15E,0xFF61,0xBF,0xFE24,0xFF18,0xFD21,0xFFAF,0xFD42,0x18,0xFD1D,0xA,0xFE77,0xFD,0xFFAA,0x16D,0x57,0x1BC,0xE9,0x1BF,0xA9,0x171,0xFFDE,0x57,0xFEAA,0xFF79,0xFE67,0xFF6D,0xFEBB,0xFF84"/>
-      <Param name="sph_in_fir_eq_freq" value="100.000000,300.000000,1000.000000,1200.000000,2000.000000,2500.000000,3000.000000,4000.000000,5000.000000,6000.000000,8000.000000"/>
-      <Param name="sph_out_fir_eq_freq" value="100.000000,500.000000,778.000000,900.000000,1000.000000,1500.000000,2700.000000,3200.000000,4000.000000,5300.000000,6000.000000,8000.000000"/>
-      <Param name="sph_in_fir_eq_mag" value="-4.000000,0.000000,0.000000,-1.000000,-1.500000,-2.000000,-3.000000,-6.000000,-9.000000,-11.000000,-14.000000"/>
-      <Param name="sph_out_fir_eq_mag" value="-2.000000,-1.000000,-10.000000,0.000000,-3.000000,-2.000000,0.000000,-7.000000,-5.000000,-2.000000,-2.000000,-3.000000"/>
-      <Param name="sph_in_iir_mic1_dsp" value="0xE342,0x3CA1,0x1DDC,0xC448,0x1DDC,0xE0E8,0x3F04,0x2000,0xC001,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
-      <Param name="sph_in_iir_mic1_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_mic1_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_iir_mic2_dsp" value="0xE0B7,0x3F42,0x1ECC,0xC268,0x1ECC,0xE1B2,0x3E47,0x2000,0xC000,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
-      <Param name="sph_in_iir_mic2_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_mic2_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
-      <Param name="sph_out_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
-      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_parameter" value="-4.000000,0.000000,0.000000,0.000000"/>
-      <Param name="sph_out_parameter" value="-6.000000,0.000000"/>
-    </ParamUnit>
     <ParamUnit param_id="46">
       <Param name="speech_mode_para" value="0x8004,0xE0,0x8000,0x100F,0x8006,0x201F,0x19A,0x0,0x50,0xC6,0x262,0x0,0x4040,0x73,0x15F7,0xA,0xEBEC,0x2FF,0x7949,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0"/>
       <Param name="sph_in_fir" value="0xFFF2,0xFEDC,0x117,0x27,0x207,0x3B,0x19F,0xFF89,0xEC,0xFEA1,0x20,0xFDEA,0xFFB5,0xFD65,0xFF59,0xFD26,0xFF9D,0xFD6A,0xFFEF,0xFD6F,0x3D,0xFDC9,0x123,0xFECA,0x2AD,0xFFD0,0x32C,0xFEF5,0x27E,0xFE8F,0x387,0xFEEF,0x30D,0xFB43,0xFE79,0xF5F5,0xFDF0,0xF8CC,0x619,0xFCB7,0x921,0xF710,0xF72,0xF105,0x50C2,0x50C2,0xF105,0xF72,0xF710,0x921,0xFCB7,0x619,0xF8CC,0xFDF0,0xF5F5,0xFE79,0xFB43,0x30D,0xFEEF,0x387,0xFE8F,0x27E,0xFEF5,0x32C,0xFFD0,0x2AD,0xFECA,0x123,0xFDC9,0x3D,0xFD6F,0xFFEF,0xFD6A,0xFF9D,0xFD26,0xFF59,0xFD65,0xFFB5,0xFDEA,0x20,0xFEA1,0xEC,0xFF89,0x19F,0x3B,0x207,0x27,0x117,0xFEDC,0xFFF2"/>
@@ -3309,52 +3217,6 @@
       <Param name="sph_out_parameter" value="-2.000000,0.000000"/>
     </ParamUnit>
     <ParamUnit param_id="47">
-      <Param name="speech_mode_para" value="0x8004,0xE0,0x8000,0x101F,0xA106,0x201F,0x195,0x0,0x1D0,0xC6,0x262,0x0,0x405C,0x73,0x15F7,0xA,0xDBDC,0x2ED,0x14A3,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0xE9E9,0x6C6B,0xADB6,0xE4E4,0x64A4,0xA4E4,0x70B,0xF10,0xF0F,0xF0E,0x3128,0x63,0x1E11,0x3C36,0x5A54,0x8C64"/>
-      <Param name="sph_in_fir" value="0x63,0x0,0x9,0xFFAA,0xFFFB,0xFF98,0x4,0xFF9E,0xFFF8,0xFF92,0xFFFE,0xFF87,0xFFF7,0xFF71,0xFFF0,0xFF27,0xFFC1,0xFED2,0xFF94,0xFE8F,0xFF5B,0xFE6D,0xFF42,0xFE9D,0xFF79,0xFE89,0xFF7A,0xFE89,0xFF56,0xFE2E,0xFF55,0xFD68,0xFEE4,0xFD07,0xFEB7,0xFC39,0xFEFA,0xFC9C,0x42,0xFD2C,0x169,0xF9E2,0x321,0x6E6,0x50C2,0x50C2,0x6E6,0x321,0xF9E2,0x169,0xFD2C,0x42,0xFC9C,0xFEFA,0xFC39,0xFEB7,0xFD07,0xFEE4,0xFD68,0xFF55,0xFE2E,0xFF56,0xFE89,0xFF7A,0xFE89,0xFF79,0xFE9D,0xFF42,0xFE6D,0xFF5B,0xFE8F,0xFF94,0xFED2,0xFFC1,0xFF27,0xFFF0,0xFF71,0xFFF7,0xFF87,0xFFFE,0xFF92,0xFFF8,0xFF9E,0x4,0xFF98,0xFFFB,0xFFAA,0x9,0x0,0x63"/>
-      <Param name="sph_out_fir" value="0xFF84,0xFEBB,0xFF6D,0xFE67,0xFF79,0xFEAA,0x57,0xFFDE,0x171,0xA9,0x1BF,0xE9,0x1BC,0x57,0x16D,0xFFAA,0xFD,0xFE77,0xA,0xFD1D,0x18,0xFD42,0xFFAF,0xFD21,0xFF18,0xFE24,0xBF,0xFF61,0x15E,0xFDE0,0x13B,0xFEFD,0x508,0xFF35,0x2A5,0xFB88,0x3C1,0xFF01,0x90D,0xFCAC,0xB1,0xF272,0xF78,0xEDAE,0x4026,0x4026,0xEDAE,0xF78,0xF272,0xB1,0xFCAC,0x90D,0xFF01,0x3C1,0xFB88,0x2A5,0xFF35,0x508,0xFEFD,0x13B,0xFDE0,0x15E,0xFF61,0xBF,0xFE24,0xFF18,0xFD21,0xFFAF,0xFD42,0x18,0xFD1D,0xA,0xFE77,0xFD,0xFFAA,0x16D,0x57,0x1BC,0xE9,0x1BF,0xA9,0x171,0xFFDE,0x57,0xFEAA,0xFF79,0xFE67,0xFF6D,0xFEBB,0xFF84"/>
-      <Param name="sph_in_fir_eq_freq" value="100.000000,300.000000,1000.000000,1200.000000,2000.000000,2500.000000,3000.000000,4000.000000,5000.000000,6000.000000,8000.000000"/>
-      <Param name="sph_out_fir_eq_freq" value="100.000000,500.000000,778.000000,900.000000,1000.000000,1500.000000,2700.000000,3200.000000,4000.000000,5300.000000,6000.000000,8000.000000"/>
-      <Param name="sph_in_fir_eq_mag" value="-4.000000,0.000000,0.000000,-1.000000,-1.500000,-2.000000,-3.000000,-6.000000,-9.000000,-11.000000,-14.000000"/>
-      <Param name="sph_out_fir_eq_mag" value="-2.000000,-1.000000,-10.000000,0.000000,-3.000000,-2.000000,0.000000,-7.000000,-5.000000,-2.000000,-2.000000,-3.000000"/>
-      <Param name="sph_in_iir_mic1_dsp" value="0xE342,0x3CA1,0x1DDC,0xC448,0x1DDC,0xE0E8,0x3F04,0x2000,0xC001,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
-      <Param name="sph_in_iir_mic1_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_mic1_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_iir_mic2_dsp" value="0xE0B7,0x3F42,0x1ECC,0xC268,0x1ECC,0xE1B2,0x3E47,0x2000,0xC000,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
-      <Param name="sph_in_iir_mic2_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_mic2_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
-      <Param name="sph_out_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
-      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_parameter" value="-4.000000,0.000000,0.000000,0.000000"/>
-      <Param name="sph_out_parameter" value="-6.000000,0.000000"/>
-    </ParamUnit>
-    <ParamUnit param_id="48">
-      <Param name="speech_mode_para" value="0x8004,0xE0,0x8000,0x100F,0xA006,0x201F,0x19A,0x0,0x50,0xC6,0x262,0x0,0x4040,0x73,0x15F7,0xA,0xDBDC,0x2FF,0x7949,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0xE8,0x6C,0xAD,0xE4,0x64,0xA4,0x7,0xF,0xF,0xF,0x31,0x6,0x1E,0x3C,0x5A,0x8C"/>
-      <Param name="sph_in_fir" value="0xFFF2,0xFEDC,0x117,0x27,0x207,0x3B,0x19F,0xFF89,0xEC,0xFEA1,0x20,0xFDEA,0xFFB5,0xFD65,0xFF59,0xFD26,0xFF9D,0xFD6A,0xFFEF,0xFD6F,0x3D,0xFDC9,0x123,0xFECA,0x2AD,0xFFD0,0x32C,0xFEF5,0x27E,0xFE8F,0x387,0xFEEF,0x30D,0xFB43,0xFE79,0xF5F5,0xFDF0,0xF8CC,0x619,0xFCB7,0x921,0xF710,0xF72,0xF105,0x50C2,0x50C2,0xF105,0xF72,0xF710,0x921,0xFCB7,0x619,0xF8CC,0xFDF0,0xF5F5,0xFE79,0xFB43,0x30D,0xFEEF,0x387,0xFE8F,0x27E,0xFEF5,0x32C,0xFFD0,0x2AD,0xFECA,0x123,0xFDC9,0x3D,0xFD6F,0xFFEF,0xFD6A,0xFF9D,0xFD26,0xFF59,0xFD65,0xFFB5,0xFDEA,0x20,0xFEA1,0xEC,0xFF89,0x19F,0x3B,0x207,0x27,0x117,0xFEDC,0xFFF2"/>
-      <Param name="sph_out_fir" value="0x219,0xFFA8,0xB6,0xFE03,0x23,0xFE57,0xA4,0xFE2C,0x61,0xFE26,0xD4,0xFE71,0x14C,0xFF1D,0x26A,0xFFC9,0x2CB,0xFFEB,0x361,0xFFE1,0x263,0xFD97,0x80,0xFC21,0xFFA0,0xFA65,0xFE29,0xF930,0xFE84,0xF9A7,0x85,0xFC58,0x4E2,0xFDF8,0x44C,0xFA97,0x5D1,0xFE4A,0xB1B,0xF71C,0xFFAD,0xE563,0x894,0xE7E3,0x65AB,0x65AB,0xE7E3,0x894,0xE563,0xFFAD,0xF71C,0xB1B,0xFE4A,0x5D1,0xFA97,0x44C,0xFDF8,0x4E2,0xFC58,0x85,0xF9A7,0xFE84,0xF930,0xFE29,0xFA65,0xFFA0,0xFC21,0x80,0xFD97,0x263,0xFFE1,0x361,0xFFEB,0x2CB,0xFFC9,0x26A,0xFF1D,0x14C,0xFE71,0xD4,0xFE26,0x61,0xFE2C,0xA4,0xFE57,0x23,0xFE03,0xB6,0xFFA8,0x219"/>
-      <Param name="sph_in_fir_eq_freq" value="102.000000,304.000000,388.000000,611.000000,809.000000,906.000000,1008.000000,1095.000000,1146.000000,1314.000000,1890.000000,2249.000000,2500.000000,3000.000000,4000.000000"/>
-      <Param name="sph_out_fir_eq_freq" value="100.000000,400.000000,650.000000,828.000000,1000.000000,1200.000000,1600.000000,2500.000000,3386.000000,4000.000000"/>
-      <Param name="sph_in_fir_eq_mag" value="-2.000000,1.000000,-1.000000,-1.000000,4.000000,1.840000,1.000000,1.000000,1.000000,-2.760000,-4.290000,-0.310000,0.000000,-2.000000,-4.000000"/>
-      <Param name="sph_out_fir_eq_mag" value="-5.000000,0.000000,0.000000,-8.880000,-3.000000,1.500000,1.500000,3.000000,-2.000000,-2.000000"/>
-      <Param name="sph_in_iir_mic1_dsp" value="0xE342,0x3CA1,0x1DDC,0xC448,0x1DDC,0xE0E8,0x3F04,0x2000,0xC001,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
-      <Param name="sph_in_iir_mic1_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_mic1_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_iir_mic2_dsp" value="0xE0B7,0x3F42,0x1ECC,0xC268,0x1ECC,0xE1B2,0x3E47,0x2000,0xC000,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
-      <Param name="sph_in_iir_mic2_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_mic2_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
-      <Param name="sph_out_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
-      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
-      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
-      <Param name="sph_in_parameter" value="-4.000000,0.000000,0.000000,0.000000"/>
-      <Param name="sph_out_parameter" value="-2.000000,0.000000"/>
-    </ParamUnit>
-    <ParamUnit param_id="49">
       <Param name="speech_mode_para" value="0x8004,0xE0,0x8000,0x101F,0xA106,0x201F,0x195,0x0,0x1D0,0xC6,0x262,0x0,0x405C,0x73,0x15F7,0xA,0xDBDC,0x2ED,0x14A3,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0xE9E9,0x6C6B,0xADB6,0xE4E4,0x64A4,0xA4E4,0x70B,0xF10,0xF0F,0xF0E,0x3128,0x63,0x1E11,0x3C36,0x5A54,0x8C64"/>
       <Param name="sph_in_fir" value="0x63,0x0,0x9,0xFFAA,0xFFFB,0xFF98,0x4,0xFF9E,0xFFF8,0xFF92,0xFFFE,0xFF87,0xFFF7,0xFF71,0xFFF0,0xFF27,0xFFC1,0xFED2,0xFF94,0xFE8F,0xFF5B,0xFE6D,0xFF42,0xFE9D,0xFF79,0xFE89,0xFF7A,0xFE89,0xFF56,0xFE2E,0xFF55,0xFD68,0xFEE4,0xFD07,0xFEB7,0xFC39,0xFEFA,0xFC9C,0x42,0xFD2C,0x169,0xF9E2,0x321,0x6E6,0x50C2,0x50C2,0x6E6,0x321,0xF9E2,0x169,0xFD2C,0x42,0xFC9C,0xFEFA,0xFC39,0xFEB7,0xFD07,0xFEE4,0xFD68,0xFF55,0xFE2E,0xFF56,0xFE89,0xFF7A,0xFE89,0xFF79,0xFE9D,0xFF42,0xFE6D,0xFF5B,0xFE8F,0xFF94,0xFED2,0xFFC1,0xFF27,0xFFF0,0xFF71,0xFFF7,0xFF87,0xFFFE,0xFF92,0xFFF8,0xFF9E,0x4,0xFF98,0xFFFB,0xFFAA,0x9,0x0,0x63"/>
       <Param name="sph_out_fir" value="0xFF84,0xFEBB,0xFF6D,0xFE67,0xFF79,0xFEAA,0x57,0xFFDE,0x171,0xA9,0x1BF,0xE9,0x1BC,0x57,0x16D,0xFFAA,0xFD,0xFE77,0xA,0xFD1D,0x18,0xFD42,0xFFAF,0xFD21,0xFF18,0xFE24,0xBF,0xFF61,0x15E,0xFDE0,0x13B,0xFEFD,0x508,0xFF35,0x2A5,0xFB88,0x3C1,0xFF01,0x90D,0xFCAC,0xB1,0xF272,0xF78,0xEDAE,0x4026,0x4026,0xEDAE,0xF78,0xF272,0xB1,0xFCAC,0x90D,0xFF01,0x3C1,0xFB88,0x2A5,0xFF35,0x508,0xFEFD,0x13B,0xFDE0,0x15E,0xFF61,0xBF,0xFE24,0xFF18,0xFD21,0xFFAF,0xFD42,0x18,0xFD1D,0xA,0xFE77,0xFD,0xFFAA,0x16D,0x57,0x1BC,0xE9,0x1BF,0xA9,0x171,0xFFDE,0x57,0xFEAA,0xFF79,0xFE67,0xFF6D,0xFEBB,0xFF84"/>
@@ -3859,6 +3721,144 @@
       <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
       <Param name="sph_in_parameter" value="0.000000,0.000000,0.000000,0.000000"/>
       <Param name="sph_out_parameter" value="0.000000,0.000000"/>
+    </ParamUnit>
+    <ParamUnit param_id="23">
+      <Param name="speech_mode_para" value="0x8004,0xE0,0x8000,0x100F,0xA006,0x201F,0x19A,0x0,0x50,0xC6,0x262,0x0,0x4040,0x95F3,0x4CCC,0xA,0xDBDC,0x2FF,0x7949,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x21B,0x0,0xE8,0x6C,0xAD,0xE4,0x64,0xA4,0x7,0xF,0xF,0xF,0x31,0x6,0x1E,0x3C,0x5A,0x8C"/>
+      <Param name="sph_in_fir" value="0x31,0xFF25,0x16C,0x71,0x25E,0x91,0x200,0xFFDD,0x148,0xFEF6,0x84,0xFE42,0x16,0xFDBF,0xFFC5,0xFD81,0xFFF3,0xFD9E,0x20,0xFD86,0x54,0xFDBF,0x11B,0xFEA4,0x285,0xFF7A,0x2CD,0xFE6C,0x1F7,0xFDD9,0x2CC,0xFDFB,0x218,0xFA09,0xFD35,0xF468,0xFC80,0xF72F,0x4B0,0xFB00,0x7A4,0xF530,0xE1E,0xEEF8,0x50C2,0x50C2,0xEEF8,0xE1E,0xF530,0x7A4,0xFB00,0x4B0,0xF72F,0xFC80,0xF468,0xFD35,0xFA09,0x218,0xFDFB,0x2CC,0xFDD9,0x1F7,0xFE6C,0x2CD,0xFF7A,0x285,0xFEA4,0x11B,0xFDBF,0x54,0xFD86,0x20,0xFD9E,0xFFF3,0xFD81,0xFFC5,0xFDBF,0x16,0xFE42,0x84,0xFEF6,0x148,0xFFDD,0x200,0x91,0x25E,0x71,0x16C,0xFF25,0x31"/>
+      <Param name="sph_out_fir" value="0x219,0xFFA8,0xB6,0xFE03,0x23,0xFE57,0xA4,0xFE2C,0x61,0xFE26,0xD4,0xFE71,0x14C,0xFF1D,0x26A,0xFFC9,0x2CB,0xFFEB,0x361,0xFFE1,0x263,0xFD97,0x80,0xFC21,0xFFA0,0xFA65,0xFE29,0xF930,0xFE84,0xF9A7,0x85,0xFC58,0x4E2,0xFDF8,0x44C,0xFA97,0x5D1,0xFE4A,0xB1B,0xF71C,0xFFAD,0xE563,0x894,0xE7E3,0x65AB,0x65AB,0xE7E3,0x894,0xE563,0xFFAD,0xF71C,0xB1B,0xFE4A,0x5D1,0xFA97,0x44C,0xFDF8,0x4E2,0xFC58,0x85,0xF9A7,0xFE84,0xF930,0xFE29,0xFA65,0xFFA0,0xFC21,0x80,0xFD97,0x263,0xFFE1,0x361,0xFFEB,0x2CB,0xFFC9,0x26A,0xFF1D,0x14C,0xFE71,0xD4,0xFE26,0x61,0xFE2C,0xA4,0xFE57,0x23,0xFE03,0xB6,0xFFA8,0x219"/>
+      <Param name="sph_in_fir_eq_freq" value="100.000000,304.000000,388.000000,611.000000,809.000000,906.000000,1008.000000,1095.000000,1146.000000,1314.000000,1890.000000,2249.000000,2500.000000,3000.000000,4000.000000"/>
+      <Param name="sph_out_fir_eq_freq" value="100.000000,400.000000,650.000000,828.000000,1000.000000,1200.000000,1600.000000,2500.000000,3386.000000,4000.000000"/>
+      <Param name="sph_in_fir_eq_mag" value="-6.000000,-1.000000,-1.000000,-1.000000,4.000000,1.840000,1.000000,1.000000,1.000000,-2.760000,-4.290000,-0.310000,0.000000,-2.000000,0.000000"/>
+      <Param name="sph_out_fir_eq_mag" value="-5.000000,0.000000,0.000000,-8.880000,-3.000000,1.500000,1.500000,3.000000,-2.000000,-2.000000"/>
+      <Param name="sph_in_iir_mic1_dsp" value="0xE342,0x3CA1,0x1DDC,0xC448,0x1DDC,0xE0E8,0x3F04,0x2000,0xC001,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
+      <Param name="sph_in_iir_mic1_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_mic1_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_mic2_dsp" value="0xE0B7,0x3F42,0x1ECC,0xC268,0x1ECC,0xE1B2,0x3E47,0x2000,0xC000,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
+      <Param name="sph_in_iir_mic2_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_mic2_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
+      <Param name="sph_out_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
+      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_parameter" value="-4.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_out_parameter" value="-2.000000,0.000000"/>
+    </ParamUnit>
+    <ParamUnit param_id="26">
+      <Param name="speech_mode_para" value="0x8004,0xE0,0x8000,0x100F,0xA006,0x201F,0x19A,0x0,0x50,0xC6,0x262,0x0,0x4040,0x95F3,0x4CCC,0xA,0xDBDC,0x2FF,0x7949,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x21B,0x0,0xE8,0x6C,0xAD,0xE4,0x64,0xA4,0x7,0xF,0xF,0xF,0x31,0x6,0x1E,0x3C,0x5A,0x8C"/>
+      <Param name="sph_in_fir" value="0xFFF2,0xFEDC,0x117,0x27,0x207,0x3B,0x19F,0xFF89,0xEC,0xFEA1,0x20,0xFDEA,0xFFB5,0xFD65,0xFF59,0xFD26,0xFF9D,0xFD6A,0xFFEF,0xFD6F,0x3D,0xFDC9,0x123,0xFECA,0x2AD,0xFFD0,0x32C,0xFEF5,0x27E,0xFE8F,0x387,0xFEEF,0x30D,0xFB43,0xFE79,0xF5F5,0xFDF0,0xF8CC,0x619,0xFCB7,0x921,0xF710,0xF72,0xF105,0x50C2,0x50C2,0xF105,0xF72,0xF710,0x921,0xFCB7,0x619,0xF8CC,0xFDF0,0xF5F5,0xFE79,0xFB43,0x30D,0xFEEF,0x387,0xFE8F,0x27E,0xFEF5,0x32C,0xFFD0,0x2AD,0xFECA,0x123,0xFDC9,0x3D,0xFD6F,0xFFEF,0xFD6A,0xFF9D,0xFD26,0xFF59,0xFD65,0xFFB5,0xFDEA,0x20,0xFEA1,0xEC,0xFF89,0x19F,0x3B,0x207,0x27,0x117,0xFEDC,0xFFF2"/>
+      <Param name="sph_out_fir" value="0x219,0xFFA8,0xB6,0xFE03,0x23,0xFE57,0xA4,0xFE2C,0x61,0xFE26,0xD4,0xFE71,0x14C,0xFF1D,0x26A,0xFFC9,0x2CB,0xFFEB,0x361,0xFFE1,0x263,0xFD97,0x80,0xFC21,0xFFA0,0xFA65,0xFE29,0xF930,0xFE84,0xF9A7,0x85,0xFC58,0x4E2,0xFDF8,0x44C,0xFA97,0x5D1,0xFE4A,0xB1B,0xF71C,0xFFAD,0xE563,0x894,0xE7E3,0x65AB,0x65AB,0xE7E3,0x894,0xE563,0xFFAD,0xF71C,0xB1B,0xFE4A,0x5D1,0xFA97,0x44C,0xFDF8,0x4E2,0xFC58,0x85,0xF9A7,0xFE84,0xF930,0xFE29,0xFA65,0xFFA0,0xFC21,0x80,0xFD97,0x263,0xFFE1,0x361,0xFFEB,0x2CB,0xFFC9,0x26A,0xFF1D,0x14C,0xFE71,0xD4,0xFE26,0x61,0xFE2C,0xA4,0xFE57,0x23,0xFE03,0xB6,0xFFA8,0x219"/>
+      <Param name="sph_in_fir_eq_freq" value="102.000000,304.000000,388.000000,611.000000,809.000000,906.000000,1008.000000,1095.000000,1146.000000,1314.000000,1890.000000,2249.000000,2500.000000,3000.000000,4000.000000"/>
+      <Param name="sph_out_fir_eq_freq" value="100.000000,400.000000,650.000000,828.000000,1000.000000,1200.000000,1600.000000,2500.000000,3386.000000,4000.000000"/>
+      <Param name="sph_in_fir_eq_mag" value="-2.000000,1.000000,-1.000000,-1.000000,4.000000,1.840000,1.000000,1.000000,1.000000,-2.760000,-4.290000,-0.310000,0.000000,-2.000000,-4.000000"/>
+      <Param name="sph_out_fir_eq_mag" value="-5.000000,0.000000,0.000000,-8.880000,-3.000000,1.500000,1.500000,3.000000,-2.000000,-2.000000"/>
+      <Param name="sph_in_iir_mic1_dsp" value="0xE342,0x3CA1,0x1DDC,0xC448,0x1DDC,0xE0E8,0x3F04,0x2000,0xC001,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
+      <Param name="sph_in_iir_mic1_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_mic1_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_mic2_dsp" value="0xE0B7,0x3F42,0x1ECC,0xC268,0x1ECC,0xE1B2,0x3E47,0x2000,0xC000,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
+      <Param name="sph_in_iir_mic2_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_mic2_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
+      <Param name="sph_out_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
+      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_parameter" value="-4.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_out_parameter" value="-2.000000,0.000000"/>
+    </ParamUnit>
+    <ParamUnit param_id="29">
+      <Param name="speech_mode_para" value="0x40,0xFD,0x40BB,0x11F,0xE007,0xA00C,0x19F,0x0,0xF10,0xC4,0x263,0x0,0x3008,0xFFF7,0x1B2F,0xB000,0xF6F6,0x2ED,0x4167,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0xEFEF,0xDF3C,0xE900,0x6B00,0xB600,0xE400,0xA400,0xE400,0x90F,0x100F,0x100F,0x1B0F,0x150F,0x30,0x3028,0x5350,0x7878,0x8AA0"/>
+      <Param name="sph_in_fir" value="0x83,0xFF15,0x15,0xFEC4,0x2E,0xFF0E,0x9F,0xFF75,0x116,0xFFAD,0x114,0xFF5D,0xC9,0xFED2,0xF,0xFE0A,0x3B,0xFF19,0x14A,0xFE69,0xFF4C,0xFCE2,0x86,0xFFE9,0x328,0xFFDA,0x183,0xFDBD,0x3A,0xFC7D,0x9D,0xFEDB,0x497,0xFE78,0xFE00,0xF473,0xFCD1,0xFF02,0xDC0,0x1F9,0x121,0xEB64,0x3C9,0xFA0A,0x47FA,0x47FA,0xFA0A,0x3C9,0xEB64,0x121,0x1F9,0xDC0,0xFF02,0xFCD1,0xF473,0xFE00,0xFE78,0x497,0xFEDB,0x9D,0xFC7D,0x3A,0xFDBD,0x183,0xFFDA,0x328,0xFFE9,0x86,0xFCE2,0xFF4C,0xFE69,0x14A,0xFF19,0x3B,0xFE0A,0xF,0xFED2,0xC9,0xFF5D,0x114,0xFFAD,0x116,0xFF75,0x9F,0xFF0E,0x2E,0xFEC4,0x15,0xFF15,0x83"/>
+      <Param name="sph_out_fir" value="0xFF2C,0xFD52,0xFF37,0xFDF8,0xFFFF,0xFE4A,0x31,0xFE7D,0x81,0xFE6E,0x4D,0xFE1A,0x19,0xFD84,0xFF65,0xFCDB,0xFF81,0xFD40,0x1,0xFD3E,0x1B,0xFD3B,0x68,0xFD4B,0xFD,0xFDE2,0x1F6,0xFE0A,0x22B,0xFDD4,0x2DD,0xFDF8,0x375,0xFD7D,0x410,0xFD05,0x4F3,0xFC04,0x66C,0xFAAA,0x8F4,0xF675,0xE98,0xE8B1,0x47FA,0x47FA,0xE8B1,0xE98,0xF675,0x8F4,0xFAAA,0x66C,0xFC04,0x4F3,0xFD05,0x410,0xFD7D,0x375,0xFDF8,0x2DD,0xFDD4,0x22B,0xFE0A,0x1F6,0xFDE2,0xFD,0xFD4B,0x68,0xFD3B,0x1B,0xFD3E,0x1,0xFD40,0xFF81,0xFCDB,0xFF65,0xFD84,0x19,0xFE1A,0x4D,0xFE6E,0x81,0xFE7D,0x31,0xFE4A,0xFFFF,0xFDF8,0xFF37,0xFD52,0xFF2C"/>
+      <Param name="sph_in_fir_eq_freq" value="100.000000,260.000000,350.000000,744.000000,899.000000,1112.000000,1789.000000,1987.000000,2187.000000,2339.000000,2477.000000,3000.000000,3399.000000,4000.000000"/>
+      <Param name="sph_out_fir_eq_freq" value="105.000000,232.000000,279.000000,338.000000,379.000000,454.000000,550.000000,623.000000,762.000000,864.000000,997.000000,1146.000000,1375.000000,1712.000000,2026.000000,2295.000000,2649.000000,3178.000000,4000.000000"/>
+      <Param name="sph_in_fir_eq_mag" value="-1.000000,1.000000,1.000000,2.000000,3.000000,0.000000,1.000000,1.000000,5.000000,7.000000,7.000000,3.000000,-5.160000,0.000000"/>
+      <Param name="sph_out_fir_eq_mag" value="1.190000,3.610000,4.940000,1.060000,-1.140000,-0.390000,-0.200000,-1.660000,-1.250000,1.300000,0.000000,0.000000,-0.310000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_in_iir_mic1_dsp" value="0xE342,0x3CA1,0x1DDC,0xC448,0x1DDC,0xE0E8,0x3F04,0x2000,0xC001,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
+      <Param name="sph_in_iir_mic1_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_mic1_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_mic2_dsp" value="0xE0B7,0x3F42,0x1ECC,0xC268,0x1ECC,0xE1B2,0x3E47,0x2000,0xC000,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
+      <Param name="sph_in_iir_mic2_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_mic2_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
+      <Param name="sph_out_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
+      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_parameter" value="-5.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_out_parameter" value="-5.000000,0.000000"/>
+    </ParamUnit>
+    <ParamUnit param_id="34">
+      <Param name="speech_mode_para" value="0x40,0xFD,0x40BB,0x11F,0xE007,0xA00C,0x19F,0x0,0xF10,0xC4,0x263,0x0,0x3008,0xFFF4,0x1B2F,0xB000,0xF6F6,0x2ED,0x4167,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0xEFEF,0xDF3C,0xE900,0x6B00,0xB600,0xE400,0xA400,0xE400,0x90F,0x100F,0x100F,0x1B0F,0x150F,0x30,0x3028,0x5350,0x7878,0x8AA0"/>
+      <Param name="sph_in_fir" value="0x83,0xFF15,0x15,0xFEC4,0x2E,0xFF0E,0x9F,0xFF75,0x116,0xFFAD,0x114,0xFF5D,0xC9,0xFED2,0xF,0xFE0A,0x3B,0xFF19,0x14A,0xFE69,0xFF4C,0xFCE2,0x86,0xFFE9,0x328,0xFFDA,0x183,0xFDBD,0x3A,0xFC7D,0x9D,0xFEDB,0x497,0xFE78,0xFE00,0xF473,0xFCD1,0xFF02,0xDC0,0x1F9,0x121,0xEB64,0x3C9,0xFA0A,0x47FA,0x47FA,0xFA0A,0x3C9,0xEB64,0x121,0x1F9,0xDC0,0xFF02,0xFCD1,0xF473,0xFE00,0xFE78,0x497,0xFEDB,0x9D,0xFC7D,0x3A,0xFDBD,0x183,0xFFDA,0x328,0xFFE9,0x86,0xFCE2,0xFF4C,0xFE69,0x14A,0xFF19,0x3B,0xFE0A,0xF,0xFED2,0xC9,0xFF5D,0x114,0xFFAD,0x116,0xFF75,0x9F,0xFF0E,0x2E,0xFEC4,0x15,0xFF15,0x83"/>
+      <Param name="sph_out_fir" value="0xFF2C,0xFD52,0xFF37,0xFDF8,0xFFFF,0xFE4A,0x31,0xFE7D,0x81,0xFE6E,0x4D,0xFE1A,0x19,0xFD84,0xFF65,0xFCDB,0xFF81,0xFD40,0x1,0xFD3E,0x1B,0xFD3B,0x68,0xFD4B,0xFD,0xFDE2,0x1F6,0xFE0A,0x22B,0xFDD4,0x2DD,0xFDF8,0x375,0xFD7D,0x410,0xFD05,0x4F3,0xFC04,0x66C,0xFAAA,0x8F4,0xF675,0xE98,0xE8B1,0x47FA,0x47FA,0xE8B1,0xE98,0xF675,0x8F4,0xFAAA,0x66C,0xFC04,0x4F3,0xFD05,0x410,0xFD7D,0x375,0xFDF8,0x2DD,0xFDD4,0x22B,0xFE0A,0x1F6,0xFDE2,0xFD,0xFD4B,0x68,0xFD3B,0x1B,0xFD3E,0x1,0xFD40,0xFF81,0xFCDB,0xFF65,0xFD84,0x19,0xFE1A,0x4D,0xFE6E,0x81,0xFE7D,0x31,0xFE4A,0xFFFF,0xFDF8,0xFF37,0xFD52,0xFF2C"/>
+      <Param name="sph_in_fir_eq_freq" value="100.000000,260.000000,350.000000,744.000000,899.000000,1112.000000,1789.000000,1987.000000,2187.000000,2339.000000,2477.000000,3000.000000,3399.000000,4000.000000"/>
+      <Param name="sph_out_fir_eq_freq" value="105.000000,232.000000,279.000000,338.000000,379.000000,454.000000,550.000000,623.000000,762.000000,864.000000,997.000000,1146.000000,1375.000000,1712.000000,2026.000000,2295.000000,2649.000000,3178.000000,4000.000000"/>
+      <Param name="sph_in_fir_eq_mag" value="-1.000000,1.000000,1.000000,2.000000,3.000000,0.000000,1.000000,1.000000,5.000000,7.000000,7.000000,3.000000,-5.160000,0.000000"/>
+      <Param name="sph_out_fir_eq_mag" value="1.190000,3.610000,4.940000,1.060000,-1.140000,-0.390000,-0.200000,-1.660000,-1.250000,1.300000,0.000000,0.000000,-0.310000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_in_iir_mic1_dsp" value="0xE342,0x3CA1,0x1DDC,0xC448,0x1DDC,0xE0E8,0x3F04,0x2000,0xC001,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
+      <Param name="sph_in_iir_mic1_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_mic1_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_mic2_dsp" value="0xE0B7,0x3F42,0x1ECC,0xC268,0x1ECC,0xE1B2,0x3E47,0x2000,0xC000,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
+      <Param name="sph_in_iir_mic2_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_mic2_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
+      <Param name="sph_out_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
+      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_parameter" value="-5.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_out_parameter" value="-5.000000,0.000000"/>
+    </ParamUnit>
+    <ParamUnit param_id="20">
+      <Param name="speech_mode_para" value="0x8004,0xE0,0x8000,0x101F,0xA106,0x201F,0x195,0x0,0x1D0,0xC6,0x262,0x0,0x405C,0x95F3,0x4CCC,0xA,0xDBDC,0x2ED,0x14A3,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x21B,0x0,0xE9E9,0x6C6B,0xADB6,0xE4E4,0x64A4,0xA4E4,0x70B,0xF10,0xF0F,0xF0E,0x3128,0x63,0x1E11,0x3C36,0x5A54,0x8C64"/>
+      <Param name="sph_in_fir" value="0x63,0x0,0x9,0xFFAA,0xFFFB,0xFF98,0x4,0xFF9E,0xFFF8,0xFF92,0xFFFE,0xFF87,0xFFF7,0xFF71,0xFFF0,0xFF27,0xFFC1,0xFED2,0xFF94,0xFE8F,0xFF5B,0xFE6D,0xFF42,0xFE9D,0xFF79,0xFE89,0xFF7A,0xFE89,0xFF56,0xFE2E,0xFF55,0xFD68,0xFEE4,0xFD07,0xFEB7,0xFC39,0xFEFA,0xFC9C,0x42,0xFD2C,0x169,0xF9E2,0x321,0x6E6,0x50C2,0x50C2,0x6E6,0x321,0xF9E2,0x169,0xFD2C,0x42,0xFC9C,0xFEFA,0xFC39,0xFEB7,0xFD07,0xFEE4,0xFD68,0xFF55,0xFE2E,0xFF56,0xFE89,0xFF7A,0xFE89,0xFF79,0xFE9D,0xFF42,0xFE6D,0xFF5B,0xFE8F,0xFF94,0xFED2,0xFFC1,0xFF27,0xFFF0,0xFF71,0xFFF7,0xFF87,0xFFFE,0xFF92,0xFFF8,0xFF9E,0x4,0xFF98,0xFFFB,0xFFAA,0x9,0x0,0x63"/>
+      <Param name="sph_out_fir" value="0xFF84,0xFEBB,0xFF6D,0xFE67,0xFF79,0xFEAA,0x57,0xFFDE,0x171,0xA9,0x1BF,0xE9,0x1BC,0x57,0x16D,0xFFAA,0xFD,0xFE77,0xA,0xFD1D,0x18,0xFD42,0xFFAF,0xFD21,0xFF18,0xFE24,0xBF,0xFF61,0x15E,0xFDE0,0x13B,0xFEFD,0x508,0xFF35,0x2A5,0xFB88,0x3C1,0xFF01,0x90D,0xFCAC,0xB1,0xF272,0xF78,0xEDAE,0x4026,0x4026,0xEDAE,0xF78,0xF272,0xB1,0xFCAC,0x90D,0xFF01,0x3C1,0xFB88,0x2A5,0xFF35,0x508,0xFEFD,0x13B,0xFDE0,0x15E,0xFF61,0xBF,0xFE24,0xFF18,0xFD21,0xFFAF,0xFD42,0x18,0xFD1D,0xA,0xFE77,0xFD,0xFFAA,0x16D,0x57,0x1BC,0xE9,0x1BF,0xA9,0x171,0xFFDE,0x57,0xFEAA,0xFF79,0xFE67,0xFF6D,0xFEBB,0xFF84"/>
+      <Param name="sph_in_fir_eq_freq" value="100.000000,300.000000,1000.000000,1200.000000,2000.000000,2500.000000,3000.000000,4000.000000,5000.000000,6000.000000,8000.000000"/>
+      <Param name="sph_out_fir_eq_freq" value="100.000000,500.000000,778.000000,900.000000,1000.000000,1500.000000,2700.000000,3200.000000,4000.000000,5300.000000,6000.000000,8000.000000"/>
+      <Param name="sph_in_fir_eq_mag" value="-4.000000,0.000000,0.000000,-1.000000,-1.500000,-2.000000,-3.000000,-6.000000,-9.000000,-11.000000,-14.000000"/>
+      <Param name="sph_out_fir_eq_mag" value="-2.000000,-1.000000,-10.000000,0.000000,-3.000000,-2.000000,0.000000,-7.000000,-5.000000,-2.000000,-2.000000,-3.000000"/>
+      <Param name="sph_in_iir_mic1_dsp" value="0xE342,0x3CA1,0x1DDC,0xC448,0x1DDC,0xE0E8,0x3F04,0x2000,0xC001,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
+      <Param name="sph_in_iir_mic1_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_mic1_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_mic2_dsp" value="0xE0B7,0x3F42,0x1ECC,0xC268,0x1ECC,0xE1B2,0x3E47,0x2000,0xC000,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
+      <Param name="sph_in_iir_mic2_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_mic2_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
+      <Param name="sph_out_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
+      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_parameter" value="-4.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_out_parameter" value="-6.000000,0.000000"/>
+    </ParamUnit>
+    <ParamUnit param_id="27">
+      <Param name="speech_mode_para" value="0x8004,0xE0,0x8000,0x101F,0xA106,0x201F,0x195,0x0,0x1D0,0xC6,0x262,0x0,0x405C,0x95F3,0x4CCC,0xA,0xDBDC,0x2ED,0x14A3,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x21B,0x0,0xE9E9,0x6C6B,0xADB6,0xE4E4,0x64A4,0xA4E4,0x70B,0xF10,0xF0F,0xF0E,0x3128,0x63,0x1E11,0x3C36,0x5A54,0x8C64"/>
+      <Param name="sph_in_fir" value="0x63,0x0,0x9,0xFFAA,0xFFFB,0xFF98,0x4,0xFF9E,0xFFF8,0xFF92,0xFFFE,0xFF87,0xFFF7,0xFF71,0xFFF0,0xFF27,0xFFC1,0xFED2,0xFF94,0xFE8F,0xFF5B,0xFE6D,0xFF42,0xFE9D,0xFF79,0xFE89,0xFF7A,0xFE89,0xFF56,0xFE2E,0xFF55,0xFD68,0xFEE4,0xFD07,0xFEB7,0xFC39,0xFEFA,0xFC9C,0x42,0xFD2C,0x169,0xF9E2,0x321,0x6E6,0x50C2,0x50C2,0x6E6,0x321,0xF9E2,0x169,0xFD2C,0x42,0xFC9C,0xFEFA,0xFC39,0xFEB7,0xFD07,0xFEE4,0xFD68,0xFF55,0xFE2E,0xFF56,0xFE89,0xFF7A,0xFE89,0xFF79,0xFE9D,0xFF42,0xFE6D,0xFF5B,0xFE8F,0xFF94,0xFED2,0xFFC1,0xFF27,0xFFF0,0xFF71,0xFFF7,0xFF87,0xFFFE,0xFF92,0xFFF8,0xFF9E,0x4,0xFF98,0xFFFB,0xFFAA,0x9,0x0,0x63"/>
+      <Param name="sph_out_fir" value="0xFF84,0xFEBB,0xFF6D,0xFE67,0xFF79,0xFEAA,0x57,0xFFDE,0x171,0xA9,0x1BF,0xE9,0x1BC,0x57,0x16D,0xFFAA,0xFD,0xFE77,0xA,0xFD1D,0x18,0xFD42,0xFFAF,0xFD21,0xFF18,0xFE24,0xBF,0xFF61,0x15E,0xFDE0,0x13B,0xFEFD,0x508,0xFF35,0x2A5,0xFB88,0x3C1,0xFF01,0x90D,0xFCAC,0xB1,0xF272,0xF78,0xEDAE,0x4026,0x4026,0xEDAE,0xF78,0xF272,0xB1,0xFCAC,0x90D,0xFF01,0x3C1,0xFB88,0x2A5,0xFF35,0x508,0xFEFD,0x13B,0xFDE0,0x15E,0xFF61,0xBF,0xFE24,0xFF18,0xFD21,0xFFAF,0xFD42,0x18,0xFD1D,0xA,0xFE77,0xFD,0xFFAA,0x16D,0x57,0x1BC,0xE9,0x1BF,0xA9,0x171,0xFFDE,0x57,0xFEAA,0xFF79,0xFE67,0xFF6D,0xFEBB,0xFF84"/>
+      <Param name="sph_in_fir_eq_freq" value="100.000000,300.000000,1000.000000,1200.000000,2000.000000,2500.000000,3000.000000,4000.000000,5000.000000,6000.000000,8000.000000"/>
+      <Param name="sph_out_fir_eq_freq" value="100.000000,500.000000,778.000000,900.000000,1000.000000,1500.000000,2700.000000,3200.000000,4000.000000,5300.000000,6000.000000,8000.000000"/>
+      <Param name="sph_in_fir_eq_mag" value="-4.000000,0.000000,0.000000,-1.000000,-1.500000,-2.000000,-3.000000,-6.000000,-9.000000,-11.000000,-14.000000"/>
+      <Param name="sph_out_fir_eq_mag" value="-2.000000,-1.000000,-10.000000,0.000000,-3.000000,-2.000000,0.000000,-7.000000,-5.000000,-2.000000,-2.000000,-3.000000"/>
+      <Param name="sph_in_iir_mic1_dsp" value="0xE342,0x3CA1,0x1DDC,0xC448,0x1DDC,0xE0E8,0x3F04,0x2000,0xC001,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
+      <Param name="sph_in_iir_mic1_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_mic1_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_mic2_dsp" value="0xE0B7,0x3F42,0x1ECC,0xC268,0x1ECC,0xE1B2,0x3E47,0x2000,0xC000,0x2000,0x0,0x0,0x0,0x0,0x2000,0x0,0x0,0x0,0x0,0x2000"/>
+      <Param name="sph_in_iir_mic2_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_mic2_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
+      <Param name="sph_out_iir_enh_dsp" value="0x7A90,0xC524,0x8001,0x4000,0x7F54,0xC090,0x800A,0x4000,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2"/>
+      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_parameter" value="-4.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_out_parameter" value="-6.000000,0.000000"/>
     </ParamUnit>
   </ParamUnitPool>
 </AudioParam>
